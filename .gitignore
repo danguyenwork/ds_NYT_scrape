@@ -1,0 +1,13 @@
+*.pyc
+.idea
+.ipynb_checkpoints
+*.bak
+*.swp
+.DS_Store
+other_code.py
+examples.md
+individual.md
+pair.md
+images/
+data/
+pics/
